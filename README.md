@@ -1,6 +1,6 @@
 Semester Project 1/Museum Website
 
-![image]([https://i.imgur.com/3WH4Az5.png](https://i.imgur.com/i3PbDLb.png)
+![image](https://i.imgur.com/i3PbDLb.png)
 
 
 Overview of the Goal: Building a Responsive Website
