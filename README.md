@@ -8,19 +8,13 @@ Objective: Develop a responsive, engaging website for the Community Science Muse
 
 ## Description
 
-he description you provided outlines a project where you need to create a website for the Community Science Museum. This museum, targeting middle school children and families with young children, requires a website that is both informative and engaging. The key goal is to create a site that appeals to young, curious minds without being condescending, encouraging them to visit the museum.
+In this project, I am tasked with developing a website for the Community Science Museum, which targets middle school children and families with young children. My goal is to create a website that is both informative and engaging, designed to appeal to the curiosity and intelligence of young minds, encouraging them and their families to visit the museum.
 
-Your task involves using provided media assets effectively in your design, which must consider the target audience's preferences in terms of layout, color schemes, and typography. The website should have 4-6 pages, be fast-loading with optimized images, and be accessible according to WCAG standards.
+My responsibilities include effectively using provided media assets in my design, paying close attention to the target audience's preferences in layout, color schemes, and typography. The website will consist of 4-6 pages, and I will ensure it is optimized for fast loading, with images not exceeding 200kb, and is accessible in compliance with WCAG standards.
 
-The project also demands a high level of technical proficiency in HTML and CSS, with an emphasis on semantic structuring and adherence to the DRY principle in CSS. Additionally, the site must be responsive, ensuring a seamless experience across various devices.
+This project requires me to demonstrate a high level of technical proficiency in HTML and CSS. I will focus on creating semantically structured HTML and CSS that adheres to the DRY (Don't Repeat Yourself) principle. Additionally, the website must be responsive, providing a smooth user experience across various devices.
 
-You are required to submit a live version of the site, a prototype, your code repository on GitHub, and a detailed report discussing the design and technical aspects, including how you handled WCAG guidelines, SEO, and content management. The duration of the project is specified as four weeks for full-time students and eight weeks for part-time students.
-
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+For the submission, I will provide a live version of the site, a prototype, a link to my GitHub repository containing the project code, and a comprehensive report. This report will discuss the design and technical aspects of my project, my adherence to WCAG guidelines, SEO management, and content handling. I am aware that the project duration is set at four weeks for full-time students and eight weeks for part-time students.
 
 ## Built With
 - HTML
@@ -47,8 +41,6 @@ npm install
 ```bash
 npm run start
 ```
-
-
 
 ## Contact
 
