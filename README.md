@@ -3,12 +3,18 @@ Semester Project 1/Museum Website
 ![image](https://i.imgur.com/i3PbDLb.png)
 
 
-Overview of the Goal: Building a Responsive Website
-Objective: Apply your knowledge of HTML and CSS by creating a fully functional, responsive website based on a previous design assignment.
+Simple Overview: Community Science Museum Website Project
+Objective: Develop a responsive, engaging website for the Community Science Museum, targeting middle school pupils (ages 7-15) and families.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+he description you provided outlines a project where you need to create a website for the Community Science Museum. This museum, targeting middle school children and families with young children, requires a website that is both informative and engaging. The key goal is to create a site that appeals to young, curious minds without being condescending, encouraging them to visit the museum.
+
+Your task involves using provided media assets effectively in your design, which must consider the target audience's preferences in terms of layout, color schemes, and typography. The website should have 4-6 pages, be fast-loading with optimized images, and be accessible according to WCAG standards.
+
+The project also demands a high level of technical proficiency in HTML and CSS, with an emphasis on semantic structuring and adherence to the DRY principle in CSS. Additionally, the site must be responsive, ensuring a seamless experience across various devices.
+
+You are required to submit a live version of the site, a prototype, your code repository on GitHub, and a detailed report discussing the design and technical aspects, including how you handled WCAG guidelines, SEO, and content management. The duration of the project is specified as four weeks for full-time students and eight weeks for part-time students.
 
 You can add some bullet points if you'd like to:
 
@@ -42,8 +48,7 @@ npm install
 npm run start
 ```
 
-## Contributing
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+
 
 ## Contact
 
